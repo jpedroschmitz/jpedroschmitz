@@ -1,5 +1,5 @@
 # Hello, dev!
 
-I build applications with JavaScript. Lately, I'm making many useful things with React and Next.js. I also love sharing knowledge and contributing to open source, that's the reason I help to maintain projects like [Unform](https://github.com/Rocketseat/unform) and [Gatsby Themes](https://github.com/Rocketseat/gatsby-themes).
+I am an Open Source developer working remotely for [Rocketseat](https://rocketseat.com.br?utm_source=joaopedro). Lately I've been working on many projects, like [Omni](https://github.com/getomni), [Unform](https://github.com/unform/unform), [Adonis Bull](https://github.com/Rocketseat/adonis-bull), [Gatsby Themes](https://github.com/Rocketseat/gatsby-themes) and many others that you can check on my profile.
 
-Currently, I am working at [Rocketseat](https://bit.ly/2BJNrGc). If you would like to discuss these things, you can send me [an email](mailto:oi@joaopedro.cc) or follow me on [Twitter](https://twitter.com/jpedroschmitz). Looking forward to connecting with you 👋🏻
+If you would like to discuss these things, you can send me [an email](mailto:hi@joaopedro.cc) or follow me on [Twitter](https://twitter.com/jpedroschmitz) (the best way to talk with me). I'm looking forward to connect with you 👋🏻
