@@ -6,4 +6,4 @@ I'm a Front-End Engineer from Brazil 🇧🇷. I create a lot of cool applicatio
 - [FreeInvoice.dev](https://FreeInvoice.dev), a simple and Free Invoice Tool to create professional invoices;
 - [Vagas Chapecó](https://vagaschapeco.com), a job board tailored to the region where I live in Brazil.
 
-You can reach out to me directly on [LinkedIn](https://linkedin.com/in/jpedroschmitz) or [X (Twitter)](https://x.com/jpedroschmitz). Looking forward to connecting with you :)
+You can reach out to me directly on [X (Twitter)](https://x.com/jpedroschmitz). Looking forward to connecting with you :)
