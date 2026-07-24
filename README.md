@@ -5,5 +5,3 @@ I'm a Front-End Engineer from Brazil 🇧🇷. I create a lot of cool applicatio
 - [Nova Bible](https://novabible.app/), a distraction-free Bible app focused entirely on Scripture. Clean, calm, beautifully designed reading.
 - [FreeInvoice.dev](https://FreeInvoice.dev), a simple and Free Invoice Tool to create professional invoices;
 - [Vagas Chapecó](https://vagaschapeco.com), a job board tailored to the region where I live in Brazil.
-
-You can reach out to me directly on [X (Twitter)](https://x.com/jpedroschmitz). Looking forward to connecting with you :)
